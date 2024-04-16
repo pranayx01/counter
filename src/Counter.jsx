@@ -8,7 +8,7 @@ function Counter() {
       setCounter(counter + 1);
     }
   };
-
+// decrement
   const decrement = () => {
     if (counter > 0) {
       setCounter(counter - 1);
